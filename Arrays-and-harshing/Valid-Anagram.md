@@ -19,3 +19,4 @@ class Solution {
     }
 }
 ```
+*Time Complexity - O(n log n)*
